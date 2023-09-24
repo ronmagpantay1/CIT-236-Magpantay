@@ -25,61 +25,61 @@ let track_list = [
     name: "Gold Steps",
     artist: "Neck Deep",
     image: "https://i.scdn.co/image/ab67616d0000b27382a3560435840c14a72f6b6e",
-    path: "..\\assets\\songs\\goldsteps.mp3"
+    path: "assets\\songs\\goldsteps.mp3"
   },
   {
     name: "Rose By The Ocean",
     artist: "In Her Own Words",
     image: "https://i.scdn.co/image/ab67616d0000b273d1db7ddd33e6c857d2e576a4",
-    path: "..\\assets\\songs\\rosebytheocean.mp3"
+    path: "assets\\songs\\rosebytheocean.mp3"
   },
   {
     name: "Baby Blue",
     artist: "Grayscale",
     image: "https://i.scdn.co/image/ab67616d0000b27307cc7f4b0ead2e9ad77c38e3",
-    path: "..\\assets\\songs\\babyblue.mp3",
+    path: "assets\\songs\\babyblue.mp3",
   },
   {
     name: "Dont Look Back In Anger",
     artist: "Oasis",
     image: "https://i.scdn.co/image/ab67616d0000b27385e5dcc05cc216a10f141480",
-    path: "..\\assets\\songs\\dontlookback.mp3",
+    path: "assets\\songs\\dontlookback.mp3",
   },
   {
     name: "Moving Boxes",
     artist: "With Confidence",
     image: "https://i.scdn.co/image/ab67616d0000b273706fbb5644d0c803a67291d2",
-    path: "..\\assets\\songs\\movingboxes.mp3",
+    path: "assets\\songs\\movingboxes.mp3",
   },
   {
     name: "Pleasures",
     artist: "Sea Way",
     image: "https://i.scdn.co/image/ab67616d0000b273495547d2ffcdeb193b8534c4",
-    path: "..\\assets\\songs\\pleasures.mp3",
+    path: "assets\\songs\\pleasures.mp3",
   },
   {
     name: "Save Me",
     artist: "Home Safe",
     image: "https://i.scdn.co/image/ab67616d0000b273ad7d50150a10785800ddb238",
-    path: "..\\assets\\songs\\saveme.mp3",
+    path: "assets\\songs\\saveme.mp3",
   },
   {
     name: "Medicine",
     artist: "Tiny Moving Parts",
     image: "https://i.scdn.co/image/ab67616d0000b273c59d701e358b4612be5289e9",
-    path: "..\\assets\\songs\\medicine.mp3",
+    path: "assets\\songs\\medicine.mp3",
   },
   {
     name: "Clair",
     artist: "Have Mercy",
     image: "https://i.scdn.co/image/ab67616d0000b273e49631db6ec49ecd89d00b68",
-    path: "..\\assets\\songs\\clair.mp3",
+    path: "assets\\songs\\clair.mp3",
   },
   {
     name: "In Bloom",
     artist: "Neck Deep",
     image: "https://i.scdn.co/image/ab67616d0000b273012600ed0113720188be4dd5",
-    path: "..\\assets\\songs\\inbloom.mp3",
+    path: "assets\\songs\\inbloom.mp3",
   },
 ];
 
